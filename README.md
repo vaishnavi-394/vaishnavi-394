@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
+<img src="Vaishnavi chakraborty.png" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🔭 I’m currently working on

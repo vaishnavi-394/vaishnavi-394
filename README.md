@@ -13,15 +13,18 @@
 - Data Analytics projects focusing on trend analysis and exploratory data analysis (EDA)
 - Real-world datasets using MySQL and Python
 - Building AI-based mini projects as part of my BCA specialization
-  👯 I’m looking to collaborate on
+
+👯 I’m looking to collaborate on
 - Data Analytics and AI-based projects
 - Open-source projects related to Machine Learning and Data Visualization
 - SQL-based database management systems
-  🤝 I’m looking for help with
+
+🤝 I’m looking for help with
 - Advanced Machine Learning algorithms
 - Real-time data processing
 - Improving model accuracy and deployment strategies
-  🌱 I’m currently learning
+
+🌱 I’m currently learning
 - Advanced Data Analytics techniques
 - MySQL optimization and database management
 - Artificial Intelligence and predictive modeling
